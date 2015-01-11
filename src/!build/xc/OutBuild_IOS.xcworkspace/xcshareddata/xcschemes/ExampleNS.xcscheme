@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1F15890B1A6248A100AE07D4"
-               BuildableName = "ExampleNS.app"
-               BlueprintName = "ExampleNS"
+               BuildableName = "build_test.app"
+               BlueprintName = "build_test"
                ReferencedContainer = "container:../../target/ExampleNS/!build/xc/ExampleNS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -57,8 +57,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1F15890B1A6248A100AE07D4"
-            BuildableName = "ExampleNS.app"
-            BlueprintName = "ExampleNS"
+            BuildableName = "build_test.app"
+            BlueprintName = "build_test"
             ReferencedContainer = "container:../../target/ExampleNS/!build/xc/ExampleNS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1F15890B1A6248A100AE07D4"
-            BuildableName = "ExampleNS.app"
-            BlueprintName = "ExampleNS"
+            BuildableName = "build_test.app"
+            BlueprintName = "build_test"
             ReferencedContainer = "container:../../target/ExampleNS/!build/xc/ExampleNS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -94,8 +94,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1F15890B1A6248A100AE07D4"
-            BuildableName = "ExampleNS.app"
-            BlueprintName = "ExampleNS"
+            BuildableName = "build_test.app"
+            BlueprintName = "build_test"
             ReferencedContainer = "container:../../target/ExampleNS/!build/xc/ExampleNS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
